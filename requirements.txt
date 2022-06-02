@@ -11,7 +11,7 @@ click==6.7
 colorama==0.3.2
 future==0.16.0
 gpiozero==1.2.0
-html5lib==0.999
+html5lib==0.99999999
 itsdangerous==0.24
 macholib==1.8
 mcpi==0.1.1
