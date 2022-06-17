@@ -15,7 +15,7 @@ html5lib==0.999
 itsdangerous==0.24
 macholib==1.8
 mcpi==0.1.1
-numpy==1.8.2
+numpy==1.21.0
 olefile==0.44
 pefile==2017.9.3
 pgzero==1.1
